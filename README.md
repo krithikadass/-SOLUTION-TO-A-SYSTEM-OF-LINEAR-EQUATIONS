@@ -14,12 +14,13 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
+```
 #Program to find the solution for the given linear equations.
 
 #Developed by: M.Krithika Lakshmi
 
 #RegisterNumber: 212224230134
-```
+
 import numpy as np
 
 A=np.array([[1,-3],[3,1]])
