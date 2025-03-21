@@ -19,7 +19,7 @@ End the program
 #Developed by: M.Krithika Lakshmi
 
 #RegisterNumber: 212224230134
-
+```
 import numpy as np
 
 A=np.array([[1,-3],[3,1]])
@@ -29,7 +29,7 @@ B=np.array([0,10])
 result=np.linalg.solve(A,B)
 
 print(result)
-
+```
 ## Output:
 
 ![alt text](<Screenshot 2025-03-21 111212.png>)
